@@ -1,1 +1,0 @@
-/usr/bin/c++  -g  -rdynamic CMakeFiles/ceres_ba.dir/ceres_ba.cpp.o  -o ceres_ba -Wl,-rpath,/home/yuntianli/myCpp_ws/ceres_tutorial/build /usr/local/lib/libceres.a libbal_problem.so -lpthread -lglog -llapack -lblas 
