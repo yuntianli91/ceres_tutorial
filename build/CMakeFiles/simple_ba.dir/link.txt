@@ -1,1 +1,0 @@
-/usr/bin/c++  -g  -rdynamic CMakeFiles/simple_ba.dir/simple_bundle_adjuster.cc.o  -o simple_ba /usr/local/lib/libceres.a -lpthread -lglog -llapack -lblas 
